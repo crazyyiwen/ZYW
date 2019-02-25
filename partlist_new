@@ -1,0 +1,49 @@
+Partlist
+
+Exported from MXP part.sch at 3/12/2018 12:46 PM
+
+EAGLE Version 8.6.0 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Device            Package              Library          Sheet
+
+7GND                    2,54/0,9          2,54/0,9             wirepad          1
+7V+                     2,54/0,9          2,54/0,9             wirepad          1
+12GND                   2,54/0,9          2,54/0,9             wirepad          1
+12V+                    2,54/0,9          2,54/0,9             wirepad          1
+A        61303421121    61303421121       61303421121          34pinsFemale     1
+B        61303421121    61303421121       61303421121          34pinsFemale     1
+C1       0.1uf          C-EUC0402K        C0402K               rcl              1
+C2       10uf           CPOL-EUA/3216-18W A/3216-18W           rcl              1
+C3       0.1uf          C-EUC0402K        C0402K               rcl              1
+C4       22pf           C-EUC0402K        C0402K               rcl              1
+C5       22pf           C-EUC0402K        C0402K               rcl              1
+C9       0.1uf          C-EUC0603K        C0603K               rcl              1
+C10      10uf           C-EUC0603K        C0603K               rcl              1
+C11      0.1uf          C-EUC0603K        C0603K               rcl              1
+D2       PD3S160        PD3S160           POWERDI323           diode            1
+JP1                     PINHD-1X2         1X02                 pinhead          1
+JP3                     PINHD-1X4         1X04                 pinhead          1
+JP5                     PINHD-1X5         1X05                 pinhead          1
+LED1                    LEDCHIP-LED0805   CHIP-LED0805         adafruit         1
+P1       M-2X12-DIL-2MM M-2X12-DIL-2MM    DIL-2MM-2X12         con-headers-jp   1
+Q1       FDN360P        FDN360P           SUPER-SOT3           transistor-power 1
+R1       1k             R-EU_R0603        R0603                rcl              1
+R2       120            R-EU_R0603        R0603                rcl              1
+R3                      R-EU_0204/7       0204/7               rcl              1
+R4       10k            R-EU_0204/7       0204/7               rcl              1
+R5       10k            R-EU_0204/7       0204/7               rcl              1
+R6       10k            R-EU_0204/7       0204/7               rcl              1
+R7       1              R-EU_R0603        R0603                rcl              1
+R8       100k           R-EU_R0603        R0603                rcl              1
+R9       10k            R-EU_R0603        R0603                rcl              1
+U1       TJA1050        TJA1050           SOT96-1              NXP_60_26022015  1
+U2       MCP2515-I/SO   MCP2515-I/SO      SOIC127P1034X264-18N MCP2515-I_SO     1
+U3       DRV8837DSGR    DRV8837DSGR       SON50P200X200X80-9N  DRV8837DSGR      1
+X1       1751277        1751277           1751277              con-phoenix-350  1
+X2       1751248        1751248           1751248              con-phoenix-350  1
+X6       1751248        1751248           1751248              con-phoenix-350  1
+X7       1751248        1751248           1751248              con-phoenix-350  1
+X8       1751248        1751248           1751248              con-phoenix-350  1
+Y1       XT9S20ANA16M   XT9S20ANA16M      XTAL_XT9S20ANA16M    XT9S20ANA16M     1

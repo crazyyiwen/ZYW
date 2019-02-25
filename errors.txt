@@ -1,0 +1,5 @@
+Version 1:
+
+1 C3,C4,C5 should be changed to 0805 package, because they are too small soldering.
+2 FDN360P(MOSFET) should replace the BC817, because BC817 is a BJT.
+3 change the package of DRV8838(DRV8837)£¬ because it is hard to solder.
